@@ -57,7 +57,7 @@ st.markdown("""
 # ============================================
 @st.cache_data
 def load_data():
-    df = pd.read_csv('disaster_events_cleaned.csv')
+    df = pd.read_csv('disaster_events.csv')
     df['date'] = pd.to_datetime(df['date'])
     return df
 
