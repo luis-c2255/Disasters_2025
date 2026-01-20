@@ -1,0 +1,96 @@
+[server]
+enableStaticServing = true
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-Thin.ttf"
+style = "normal"
+weight = "100"
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-Light.ttf"
+style = "normal"
+weight = "300"
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-Regular.ttf"
+style = "normal"
+weight = "400"
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-Medium.ttf"
+style = "normal"
+weight = "500"
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-Bold.ttf"
+style = "normal"
+weight = "700"
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-Black.ttf"
+style = "normal"
+weight = "900"
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-ThinItalic.ttf"
+style = "italic"
+weight = "100"
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-LightItalic.ttf"
+style = "italic"
+weight = "300"
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-Italic.ttf"
+style = "italic"
+weight = "400"
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-MediumItalic.ttf"
+style = "italic"
+weight = "500"
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-BoldItalic.ttf"
+style = "italic"
+weight = "700"
+
+[[theme.fontfaces]]
+family = "Roboto"
+url = "Disaster_2025/static/Roboto-BlackItalic.ttf"
+style = "italic"
+weight = "900"
+
+[theme]
+base = "dark"
+primaryColor = "#4cc9a6"
+backgroundColor = "#0a1a2f"
+secondaryBackgroundColor = "#1e1e1e"
+codeBackgroundColor = "#1e1e1e"
+textColor = "#f7f9fc"
+linkColor = "#4cc9a6"
+borderColor = "#e3e8ef"
+showWidgetColor = true
+baseRadius = "0.3rem"
+buttonRadius = "full"
+font = "Roboto"
+headingFontWeights = [600, 500, 500, 500, 500, 500]
+headingFontSizes = ["3rem", "2.5rem", "2.25rem", "2rem", "1.5rem"]
+
+[theme.sidebar]
+backgroundColor = "#1e1e1e"
+secondaryBackgroundColor = "#121212"
+codeBackgroundColor = "#0a1a2f"
+borderColor = "#5a6a7a"
