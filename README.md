@@ -14,7 +14,7 @@ A comprehensive, interactive dashboard for analyzing global disaster events, bui
 
 ## 📊 Live Demo
 
-**[View Live Dashboard](https://disasters2025-n4vbncdb9eraqqhciuhc9g.streamlit.app/)** ← Click to explore!
+**[View Live Dashboard](https://huggingface.co/spaces/Luismodesto86/Disaster_2025)** ← Click to explore!
 
 ## ✨ Features
 
